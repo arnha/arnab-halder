@@ -41,11 +41,11 @@ site_type = "Person"
 
 # Local business type (optional)
 # If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
-local_business_type = "Linköping University, Sweden"
+local_business_type = "Linköping University"
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "Arnab Halder,Ph.D."
+org_name = "Arnab Halder"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = "Postdoctoral Researcher"
